@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @EvertonS9
-- 🌱 I’m currently learning ...
+- 👋 Olá! Eu sou @EvertonS9.
+- 🌱 Atualmente trabalho com Backend.
 
-<!---
-EvertonS9/EvertonS9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://github.com/EvertonS9">
+  <img height="180em" src="https://githubreadme-stats.vercel.app/api?username=EvertonS9&show_icons=true&them=dracula&include_all_comits-true&count_private=true"/>
+  <img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=EvertonS9&layout=compact&langs_count=16&theme=dracula"/>
+</div>
